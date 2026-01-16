@@ -11,7 +11,7 @@ Este projeto trata-se de um web-services com Spring Boot e JPA / Hibernate
 - Spring Boot
 - JPA / Hibernate
 - Maven
-- 
+
 # Como executar o projeto
 
 ## Back end
