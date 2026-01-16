@@ -24,7 +24,7 @@ git clone https://github.com/lucenaadev/workshop-springboot4-jpa
 # executar o projeto na IDE de sua preferência
 ```
 
-#Agradecimentos
+# Agradecimentos
 
 Nélio Alves(DevSuperior)
 
